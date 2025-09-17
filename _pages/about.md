@@ -12,7 +12,7 @@ redirect_from:
 - Earlier, I received my Master’s degree in Artificial Intelligence at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), supervised by [Prof. Yong Wang](https://en.auto.ustc.edu.cn/2021/0616/c26828a513186/page.htm) and my Bechlor's degree at Jiangnan University, supervised by [Prof. Yu Liu](https://scholar.google.com/citations?user=Z57iryEAAAAJ&hl=en).
 - My current research interests are mainly in LLM Low-resource Training & Inference and Foundation Models.
 
-**🤗I am actively looking for academic collaboration, fell free to contact me if you are interested.**
+**😈I am actively looking for academic collaboration, fell free to contact me if you are interested.**
 ## Research Interests
 - AI Infrastructure: Efficient LLM Training and Machine Learning System.
 - Efficient LLM Inference: Model Comperssion and Inference Accelerate. 
