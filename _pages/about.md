@@ -51,10 +51,23 @@ redirect_from:
 - **Research Intern** @[**iFlytek** Technology Research Institute](https://www.iflytek.com/en/) · 2022.03 - 2022.06
 
 ## Project Experiences
-- [**ATorch**](https://github.com/intelligent-machine-learning/atorch/): Make large model training more efficient and reproducible for everyone
-- [**DLRover**](https://github.com/intelligent-machine-learning/dlrover): An automatic distributed deep learning system
-- [**Vitis-AI 3.0**](https://github.com/Xilinx/Vitis-AI): An Integrated Development Environment that can be leveraged to accelerate AI inference on AMD adaptable platforms
-- [**Lookahead**](https://github.com/alipay/PainlessInferenceAcceleration): A toolkit to accelerate LLM inference without headache (🤯) and tears (😭) .
+<a href="https://github.com/intelligent-machine-learning/atorch" target="_blank">
+  <img src="https://img.shields.io/github/stars/intelligent-machine-learning/atorch?style=social" alt="ATorch GitHub stars" style="vertical-align: middle;"/>
+</a> <span style="font-weight:bold; font-size:1.1em;">  ATorch</span>: Make large model training more efficient and reproducible for everyone
+
+<a href="https://github.com/intelligent-machine-learning/dlrover" target="_blank">
+  <img src="https://img.shields.io/github/stars/intelligent-machine-learning/dlrover?style=social" alt="DLRover GitHub stars" style="vertical-align: middle;"/>
+</a> <span style="font-weight:bold; font-size:1.1em;">  DLRover</span>: An automatic distributed deep learning system
+
+<a href="https://github.com/Xilinx/Vitis-AI" target="_blank">
+  <img src="https://img.shields.io/github/stars/Xilinx/Vitis-AI?style=social" alt="Vitis-AI GitHub stars" style="vertical-align: middle;"/>
+</a> <span style="font-weight:bold; font-size:1.1em;">Vitis-AI</span>: An Integrated Development Environment that can be leveraged to accelerate AI inference on AMD adaptable platforms
+
+<a href="https://github.com/alipay/PainlessInferenceAcceleration" target="_blank">
+  <img src="https://img.shields.io/github/stars/alipay/PainlessInferenceAcceleration?style=social" alt="Lookahead GitHub stars" style="vertical-align: middle;"/>
+</a> <span style="font-weight:bold; font-size:1.1em;">Lookahead</span>: A toolkit to accelerate LLM inference without headache (🤯) and tears (😭) .
+
+
 
 ## Awards
 - **Outstanding Postgraduate Student**, University of Science and Technology of China · 2024
@@ -68,6 +81,7 @@ redirect_from:
 - **Outstanding Student Leader Award**, Wuxi · 2021
 
 ## Teaching
+- **Teaching Assistant**, COMP2021 – Object-oriented Programming, PolyU · 2025 Fall
 - **Teaching Assistant**, ML4432 – Machine Learning, PolyU · 2025 Spring
 - **Teaching Assistant**, CONT010177 – Modern Control Theory, USTC · 2022 Fall
 
