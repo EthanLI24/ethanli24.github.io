@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zeyu Liu (Latest updates 2025/08)"
+title: "Ethan Zhen LI"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 ## About me
 - I am a first-year PhD student in the Department of Computing of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), fortunately supervised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/) at PolyU and <a href="https://pacman.cs.tsinghua.edu.cn/~cwg/" target="_blank">Prof. Wenguang Chen</a> at Tsinghua University..
-- Earlier, I received my Master’s Degree in Artificial Intelligence at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), supervised by [Prof.Yong Wang](https://en.auto.ustc.edu.cn/2021/0616/c26828a513186/page.htm).
+- Earlier, I received my Master’s degree in Artificial Intelligence at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), supervised by [Prof.Yong Wang](https://en.auto.ustc.edu.cn/2021/0616/c26828a513186/page.htm) and my Bechlor's degree at Jiangnan University, supervised by [Prof. Yu Liu](https://scholar.google.com/citations?user=Z57iryEAAAAJ&hl=en).
 - My current research interests are mainly in LLM Low-resource Training & Inference and Foundation Models.
 
 **I am actively looking for academic collaboration, fell free to contact me if you are interested.**
@@ -30,6 +30,13 @@ redirect_from:
   **_2025 Under Review_** \
   👥: _Zeyu Liu*, Yuhang Liu*, Guanghao Zhu, Congkai Xie, **Zhen Li**, Jianbo Yuan, Xinyao Wang, Qing Li, Shing-Chi Cheung, Shengyu Zhang, Fei Wu, Hongxia Yang_
 
+- **[MD3R: Minimizing Data Distribution Discrepancies to Tackle Inconsistencies in Multilingual Query-Code Retrieval](https://openreview.net/forum?id=xdVLvWZcUe)** \
+  **_2025 ACL@KnowFM_** \
+  👥: _Aofan Liu, Yuguo Yin, Hongjian Xing, **Zhen Li**, Yiyan Qi_
+
+- **[Quantization meets reasoning: Exploring llm low-bit quantization degradation for mathematical reasoning](https://arxiv.org/abs/2501.03035)** \
+  **_2025 arXiv_** \
+  👥: _**Zhen Li***, Yupeng Su*, Runming Yang, Congkai Xie, Zheng Wang, Zhongwei Xie, Ngai Wong✉, Hongxia Yang_
 
 - **[InfiR: Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning.](https://arxiv.org/abs/2502.11573)** \
   **_2025 arXiv_** \
@@ -37,20 +44,29 @@ redirect_from:
    
 
 ## Industrial Experiences
-- **Algorithm Engineer** @ Tencent Interactive Entertainment Group (IEG) · 2024.07 - 2024.11
-- **AI Infra Engineer Intern** @ Ant Group NextEVO Research Center · 2023.06 - 2024.04
-- **Research Intern** @ AMD Xilinx DeePhi · 2022.10 - 2024.05
-- **Research Intern** @ iFlytek Technology Research Institute · 2022.03 - 2022.06
+- **Member of Technical Staff (Intern)** @[InfiX.ai](https://infix-ai.com/) · 2024.11 - Present
+- **Algorithm Engineer** @[**Tencent** Interactive Entertainment Group (IEG)](https://www.tencent.com/en-us/about.html) · 2024.07 - 2024.11
+- **AI Infra Engineer (Intern)** @[**Ant Group** NextEVO Research Center](https://www.antgroup.com/en) · 2023.06 - 2024.04
+- **Research Intern** @[**AMD** Xilinx DeePhi](https://www.amd.com/en.html) · 2022.10 - 2024.05
+- **Research Intern** @[**iFlytek** Technology Research Institute](https://www.iflytek.com/en/) · 2022.03 - 2022.06
 
 ## Awards
 - **Outstanding Postgraduate Student**, University of Science and Technology of China · 2024
 - **1st‑Class Academic Scholarship**, University of Science and Technology of China · 2023
 - **1st‑Class Academic Scholarship**, University of Science and Technology of China · 2022
 - **1st‑Class Academic Scholarship**, University of Science and Technology of China · 2021
+- **Outstanding Undergraduate Student**, Jiangnan University · 2021
+- **Merit Student Award of Jiangsu Province**, Jiangsu Province · 2021
+- **Outstanding Student of the Year**, Jiangsu Province · 2019
+- **Merit Student Award**, Wuxi · 2019
+- **Outstanding Student Leader Award**, Wuxi · 2021
 
 ## Teaching
 - **Teaching Assistant**, ML4432 – Machine Learning, PolyU · 2025 Spring
 - **Teaching Assistant**, CONT010177 – Modern Control Theory, USTC · 2022 Fall
+
+## Extracurricular Activities
+- **President of the Student Union**, Jiangnan University
 
 <!--
  Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=wt2iQjYAAAAJ). \
