@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhen (Ethan) Li"
+title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Zhen (Ethan) Li"
+name                     : &name "Zhen (Ethan) LI"
 description              : &description "First-year PhD student at PolyU"
 url                      : https://ethanli24.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
