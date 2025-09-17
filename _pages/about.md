@@ -9,7 +9,7 @@ redirect_from:
 
 ## About me
 - I am a first-year PhD student in the Department of Computing of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), fortunately supervised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/) at PolyU and <a href="https://pacman.cs.tsinghua.edu.cn/~cwg/" target="_blank">Prof. Wenguang Chen</a> at Tsinghua University..
-- Earlier, I received my Master’s degree in Artificial Intelligence at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), supervised by [Prof.Yong Wang](https://en.auto.ustc.edu.cn/2021/0616/c26828a513186/page.htm) and my Bechlor's degree at Jiangnan University, supervised by [Prof. Yu Liu](https://scholar.google.com/citations?user=Z57iryEAAAAJ&hl=en).
+- Earlier, I received my Master’s degree in Artificial Intelligence at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), supervised by [Prof. Yong Wang](https://en.auto.ustc.edu.cn/2021/0616/c26828a513186/page.htm) and my Bechlor's degree at Jiangnan University, supervised by [Prof. Yu Liu](https://scholar.google.com/citations?user=Z57iryEAAAAJ&hl=en).
 - My current research interests are mainly in LLM Low-resource Training & Inference and Foundation Models.
 
 **I am actively looking for academic collaboration, fell free to contact me if you are interested.**
@@ -49,6 +49,12 @@ redirect_from:
 - **AI Infra Engineer (Intern)** @[**Ant Group** NextEVO Research Center](https://www.antgroup.com/en) · 2023.06 - 2024.04
 - **Research Intern** @[**AMD** Xilinx DeePhi](https://www.amd.com/en.html) · 2022.10 - 2024.05
 - **Research Intern** @[**iFlytek** Technology Research Institute](https://www.iflytek.com/en/) · 2022.03 - 2022.06
+
+## Project Experiences
+- [**ATorch**](https://github.com/intelligent-machine-learning/atorch/): Make large model training more efficient and reproducible for everyone
+- [**DLRover**](https://github.com/intelligent-machine-learning/dlrover): An automatic distributed deep learning system
+- [**Vitis-AI 3.0**](https://github.com/Xilinx/Vitis-AI): An Integrated Development Environment that can be leveraged to accelerate AI inference on AMD adaptable platforms
+- [**Lookahead**](https://github.com/alipay/PainlessInferenceAcceleration): A toolkit to accelerate LLM inference without headache (🤯) and tears (😭) .
 
 ## Awards
 - **Outstanding Postgraduate Student**, University of Science and Technology of China · 2024
