@@ -12,7 +12,7 @@ redirect_from:
 - Earlier, I received my Master’s degree in Artificial Intelligence at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), supervised by [Prof. Yong Wang](https://en.auto.ustc.edu.cn/2021/0616/c26828a513186/page.htm).
 - My current research interests are mainly in LLM Low-resource Training & Inference and Foundation Models.
 
-**I am actively looking for academic collaboration, fell free to contact me if you are interested.**
+**😈I am actively looking for academic collaboration, fell free to contact me if you are interested.**
 ## Research Interests
 - AI Infrastructure: Efficient LLM Training and Machine Learning System.
 - Efficient LLM Inference: Model Comperssion and Inference Accelerate. 
@@ -53,11 +53,11 @@ redirect_from:
 ## Project Experiences
 <a href="https://github.com/intelligent-machine-learning/atorch" target="_blank">
   <img src="https://img.shields.io/github/stars/intelligent-machine-learning/atorch?style=social" alt="ATorch GitHub stars" style="vertical-align: middle;"/>
-</a> <span style="font-weight:bold; font-size:1.1em;">  ATorch</span>: Make large model training more efficient and reproducible for everyone
+</a> <span style="font-weight:bold; font-size:1.1em;">ATorch</span>: Make large model training more efficient and reproducible for everyone
 
 <a href="https://github.com/intelligent-machine-learning/dlrover" target="_blank">
   <img src="https://img.shields.io/github/stars/intelligent-machine-learning/dlrover?style=social" alt="DLRover GitHub stars" style="vertical-align: middle;"/>
-</a> <span style="font-weight:bold; font-size:1.1em;">  DLRover</span>: An automatic distributed deep learning system
+</a> <span style="font-weight:bold; font-size:1.1em;">DLRover</span>: An automatic distributed deep learning system
 
 <a href="https://github.com/Xilinx/Vitis-AI" target="_blank">
   <img src="https://img.shields.io/github/stars/Xilinx/Vitis-AI?style=social" alt="Vitis-AI GitHub stars" style="vertical-align: middle;"/>
