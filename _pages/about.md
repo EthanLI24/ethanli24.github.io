@@ -23,12 +23,12 @@ redirect_from:
 
 - **[InfiJanice: Joint Analysis and In-situ Correction Engine for Quantization-Induced Math Degradation in Large Language Models](https://arxiv.org/abs/2505.11574)** \
   **_2025 Under Review_** \
-  👥: _**Zhen Li***, Yupeng Su*, Songmiao Wang, Runming Yang, Congkai Xie, Aofan Liu, Ming Li, Jiannong Cao, Yuan Xie, Ngai Wong✉, Hongxia Yang_
+  👥: _**Zhen Li***, Yupeng Su*, Songmiao Wang, Runming Yang, Congkai Xie, Aofan Liu, Ming Li, Jiannong Cao, Yuan Xie, Ngai Wong✉, Hongxia Yang✉_
 
 
 - **[Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models](https://arxiv.org/abs/2505.23091)** \
   **_2025 Under Review_** \
-  👥: _Zeyu Liu*, Yuhang Liu*, Guanghao Zhu, Congkai Xie, **Zhen Li**, Jianbo Yuan, Xinyao Wang, Qing Li, Shing-Chi Cheung, Shengyu Zhang, Fei Wu, Hongxia Yang_
+  👥: _Zeyu Liu*, Yuhang Liu*, Guanghao Zhu, Congkai Xie, **Zhen Li**, Jianbo Yuan, Xinyao Wang, Qing Li, Shing-Chi Cheung, Shengyu Zhang, Fei Wu, Hongxia Yang✉_
 
 - **[MD3R: Minimizing Data Distribution Discrepancies to Tackle Inconsistencies in Multilingual Query-Code Retrieval](https://openreview.net/forum?id=xdVLvWZcUe)** \
   **_2025 ACL@KnowFM_** \
@@ -36,11 +36,11 @@ redirect_from:
 
 - **[Quantization meets reasoning: Exploring llm low-bit quantization degradation for mathematical reasoning](https://arxiv.org/abs/2501.03035)** \
   **_2025 arXiv_** \
-  👥: _**Zhen Li***, Yupeng Su*, Runming Yang, Congkai Xie, Zheng Wang, Zhongwei Xie, Ngai Wong✉, Hongxia Yang_
+  👥: _**Zhen Li***, Yupeng Su*, Runming Yang, Congkai Xie, Zheng Wang, Zhongwei Xie, Ngai Wong✉, Hongxia Yang✉_
 
 - **[InfiR: Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning.](https://arxiv.org/abs/2502.11573)** \
   **_2025 arXiv_** \
-  👥: _Congkai Xie, Shuo Cai, Wenjun Wang, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, **Zhen Li**, Guanghao Zhu, Zeyu Liu, Yang Yu, Yuhang Liu, Su Lu, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang_
+  👥: _Congkai Xie, Shuo Cai, Wenjun Wang, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, **Zhen Li**, Guanghao Zhu, Zeyu Liu, Yang Yu, Yuhang Liu, Su Lu, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang✉_
    
 
 ## Industrial Experiences
