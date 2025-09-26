@@ -44,7 +44,7 @@ redirect_from:
    
 ## Grants
 - **Numerical Stability and End-to-End Performance Optimization of Low-Bit Mixed-Precision Training for Large Language Models** · Tsinghua-PolyU Joint Research Initiative Fund
-- **Scaling Low-Bit Training for Efficient Large Model Deployment** · Genearl Research Funding
+- **Scaling Low-Bit Training for Efficient Large Model Deployment** · General Research Funding
 - **Dynamic Precision-Aware Low-Bit Training for Multimodal LLMs on Blackwell GPUs** · NVIDIA Academic Grant Program Award
 
 
