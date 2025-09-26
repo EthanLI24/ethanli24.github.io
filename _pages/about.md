@@ -42,6 +42,11 @@ redirect_from:
   **_2025 arXiv_** \
   👥: _Congkai Xie, Shuo Cai, Wenjun Wang, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, **Zhen Li**, Guanghao Zhu, Zeyu Liu, Yang Yu, Yuhang Liu, Su Lu, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang✉_
    
+## Grants
+- **Numerical Stability and End-to-End Performance Optimization of Low-Bit Mixed-Precision Training for Large Language Models** · Tsinghua-PolyU Joint Research Initiative Fund
+- **Scaling Low-Bit Training for Efficient Large Model Deployment** · Genearl Research Funding
+- **Dynamic Precision-Aware Low-Bit Training for Multimodal LLMs on Blackwell GPUs** · NVIDIA Academic Grant Program Award
+
 
 ## Industrial Experiences
 - **Member of Technical Staff (Intern)** @[**InfiX.ai**](https://infix-ai.com/) · 2024.11 - Present
@@ -87,6 +92,13 @@ redirect_from:
 
 ## Extracurricular Activities
 - **President of the Student Union**, Jiangnan University
+
+
+<h2>Statistics<a name="statistics"></a>&nbsp;&nbsp;&nbsp;<a style=" color:#9D849A; font-size:15px;" href="#top">[back top]</a></h2>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8XUJt78JnIpud0P_IOPz5eSdAo1rjKWQqPvdNl_qz78&cl=ffffff&w=a"></script>
+
+
+
 
 <!--
  Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=wt2iQjYAAAAJ). \
