@@ -12,7 +12,7 @@ redirect_from:
 - Earlier, I received my Master’s degree in Artificial Intelligence at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), supervised by [Prof. Yong Wang](https://en.auto.ustc.edu.cn/2021/0616/c26828a513186/page.htm).
 - My current research interests are mainly in LLM Low-resource Training & Inference and Foundation Models.
 
-**😈I am actively looking for academic collaboration, fell free to contact me if you are interested.**
+**😈I am actively looking for academic collaboration, and now we are supported by NVIDIA with DGX Spark/B200/H200 hardwares, feel free to contact me if you are interested in NVFP4/FP4/MXFP8 end-to-end training.**
 ## Research Interests
 - AI Infrastructure: Efficient LLM Training and Machine Learning System.
 - Efficient LLM Inference: Model Comperssion and Inference Accelerate. 
@@ -20,6 +20,10 @@ redirect_from:
 
 ## Publications and Manuscripts
 (*Equal contribution)
+
+- **[InfiR2: A Comprehensive FP8 Training Recipe for Reasoning-Enhanced Language Models](https://arxiv.org/abs/2509.22536)** \
+  **_2025 Under Review_** \
+  👥: _Wenjun Wang, Shuo Cai, Congkai Xie, Mingfa Feng, Yiming Zhang, **Zhen Li**, Kejing Yang, Ming Li, Jiannong Cao, Yuan Xie, Hongxia Yang✉_
 
 - **[InfiJanice: Joint Analysis and In-situ Correction Engine for Quantization-Induced Math Degradation in Large Language Models](https://arxiv.org/abs/2505.11574)** \
   **_2025 Under Review_** \
@@ -32,7 +36,7 @@ redirect_from:
 
 - **[MD3R: Minimizing Data Distribution Discrepancies to Tackle Inconsistencies in Multilingual Query-Code Retrieval](https://openreview.net/forum?id=xdVLvWZcUe)** \
   **_2025 ACL@KnowFM_** \
-  👥: _Aofan Liu, Yuguo Yin, Hongjian Xing, **Zhen Li**, Yiyan Qi_
+  👥: _Aofan Liu, Yuguo Yin, Hongjian Xing, **Zhen Li**, Yiyan Qi✉_
 
 - **[Quantization meets reasoning: Exploring llm low-bit quantization degradation for mathematical reasoning](https://arxiv.org/abs/2501.03035)** \
   **_2025 arXiv_** \
