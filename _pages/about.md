@@ -25,6 +25,11 @@ redirect_from:
   **_2025 Under Review_** \
   👥: _Wenjun Wang, Shuo Cai, Congkai Xie, Mingfa Feng, Yiming Zhang, **Zhen Li**, Kejing Yang, Ming Li, Jiannong Cao, Yuan Xie, Hongxia Yang✉_
 
+- **[Democratizing AI Through Model Fusion: A Comprehensive Review and Future Directions](https://www.cell.com/nexus/fulltext/S2950-1601(25)00049-X)** \
+  **_2025 Nexus_** \
+  👥: _Qi Zhou, Yiming Zhang, Yanggan Gu, Yuanyi Wang, Zhijie Sang, Zhaoyi Yan, **Zhen Li**, Shengyu Zhang, Fei Wu, Hongxia Yang✉_
+
+
 - **[InfiJanice: Joint Analysis and In-situ Correction Engine for Quantization-Induced Math Degradation in Large Language Models](https://arxiv.org/abs/2505.11574)** \
   **_2025 Under Review_** \
   👥: _**Zhen Li***, Yupeng Su*, Songmiao Wang, Runming Yang, Congkai Xie, Aofan Liu, Ming Li, Jiannong Cao, Yuan Xie, Ngai Wong✉, Hongxia Yang✉_
@@ -79,15 +84,15 @@ redirect_from:
 
 
 ## Awards
-- **Outstanding Postgraduate Student**, University of Science and Technology of China · 2024
-- **1st‑Class Academic Scholarship**, University of Science and Technology of China · 2023
-- **1st‑Class Academic Scholarship**, University of Science and Technology of China · 2022
-- **1st‑Class Academic Scholarship**, University of Science and Technology of China · 2021
+- **Outstanding Postgraduate Student of USTC**, 2024
+- **1st‑Class Academic Scholarship of USTC**, 2023
+- **1st‑Class Academic Scholarship of USTC**, 2022
+- **1st‑Class Academic Scholarship of USTC**, 2021
 - **Outstanding Undergraduate Student**, Jiangnan University · 2021
-- **Merit Student Award of Jiangsu Province**, Jiangsu Province · 2021
-- **Outstanding Student of the Year**, Jiangsu Province · 2019
-- **Merit Student Award**, Wuxi · 2019
-- **Outstanding Student Leader Award**, Wuxi · 2021
+- **Merit Student Award of the Province**, 2021
+- **Annual Outstanding Student of the Province**, Province Level · 2019
+- **Merit Student Award**, 2019
+- **Outstanding Student Leader Award**, 2021
 
 ## Teaching
 - **Teaching Assistant**, COMP2021 – Object-oriented Programming, PolyU · 2025 Fall
@@ -95,7 +100,7 @@ redirect_from:
 - **Teaching Assistant**, CONT010177 – Modern Control Theory, USTC · 2022 Fall
 
 ## Extracurricular Activities
-- **President of the Student Union**, Jiangnan University
+- **President of the University Student Union**
 
 
 <h2>Statistics<a name="statistics"></a>&nbsp;&nbsp;&nbsp;<a style=" color:#9D849A; font-size:15px;" href="#top">[back top]</a></h2>
