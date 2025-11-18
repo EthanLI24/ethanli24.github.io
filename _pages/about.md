@@ -88,7 +88,6 @@ redirect_from:
 - **1st‑Class Academic Scholarship of USTC**, 2023
 - **1st‑Class Academic Scholarship of USTC**, 2022
 - **1st‑Class Academic Scholarship of USTC**, 2021
-- **Outstanding Undergraduate Student**, Jiangnan University · 2021
 - **Merit Student Award of the Province**, 2021
 - **Annual Outstanding Student of the Province**, Province Level · 2019
 - **Merit Student Award**, 2019
