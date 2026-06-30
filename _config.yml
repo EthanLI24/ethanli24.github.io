@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Zhen (Ethan) LI"
-description              : &description "First-year PhD student at PolyU"
+description              : &description "Ph.D. Candidate in Artificial Intelligence at PolyU"
 url                      : https://ethanli24.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ethanli24.github.io"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   name             : "Zhen (Ethan) LI"
   avatar           : "profile.png"
-  bio              : "First-year PhD student at PolyU"
+  bio              : "Ph.D. Candidate in Artificial Intelligence at PolyU"
   location         : "Kowloon, Hong Kong SAR"
   # employer         : "The Hong Kong Polytechnic University"
   uri              : # URL

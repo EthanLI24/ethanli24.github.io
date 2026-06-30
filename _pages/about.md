@@ -8,14 +8,28 @@ redirect_from:
 ---
 
 ## About me
-- I am a first-year PhD student in the Department of Computing of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), fortunately supervised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/) at PolyU and <a href="https://pacman.cs.tsinghua.edu.cn/~cwg/" target="_blank">Prof. Wenguang Chen</a> at Tsinghua University.
-- Earlier, I received my Master’s degree in Artificial Intelligence at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), supervised by [Prof. Yong Wang](https://en.auto.ustc.edu.cn/2021/0616/c26828a513186/page.htm).
-- My current research interests are mainly in LLM Low-resource Training & Inference and Foundation Models.
+- I am a second-year Ph.D. candidate in Artificial Intelligence at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), fortunately supervised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/) at PolyU and <a href="https://pacman.cs.tsinghua.edu.cn/~cwg/" target="_blank">Prof. Wenguang Chen</a> at Tsinghua University.
+- Earlier, I received my Master’s degree in Artificial Intelligence from the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), supervised by [Prof. Yong Wang](https://en.auto.ustc.edu.cn/2021/0616/c26828a513186/page.htm).
+- My current research focuses on AI infrastructure and machine learning systems for efficient LLM training and inference, especially ultra-low-bit training, quantization, and reasoning-capable foundation models.
 
-**😈I am actively looking for academic collaboration, and now we are supported by NVIDIA with DGX Spark/B200/H200 hardwares, feel free to contact me if you are interested in NVFP4/FP4/MXFP8 end-to-end training.**
+**I am actively looking for academic collaboration. We are working with NVIDIA H- and B-series GPU platforms, including DGX Spark, B200/H200, GB200 and B300 systems. Feel free to contact me if you are interested in NVFP4/FP4/MXFP8 end-to-end training, low-bit RL, or efficient reasoning models.**
+
+<!-- ## Recent Updates
+- **2026**: Building end-to-end ultra-low-bit NVFP4/FP4 LLM training pipelines with system-level optimization on GB200/B300, covering pretraining, post-training and RL.
+- **2026**: Developing INT4 QAT-RL with real W4A16 rollout using SGLang and Marlin kernels to reduce train-inference mismatch for reasoning RL.
+- **2026 Spring**: Teaching Assistant for COMP6713 - Advanced Large Language Model and Beyond at PolyU.
+- **2025**: Received the PolyU Research Postgraduate Scholarship.
+- **2025**: Added new work on FP8 reasoning-model training, low-bit mathematical reasoning degradation, and model-fusion democratization of AI. -->
+
 ## Research Interests
-- AI Infrastructure: Efficient LLM Training and Machine Learning System.
-- Efficient LLM Inference: Model Comperssion and Inference Accelerate. 
+- AI Infrastructure: large-scale LLM training systems, distributed training, memory optimization, and system-algorithm co-design.
+- Efficient LLM Training and Inference: FP8/FP4/NVFP4 training, INT4 rollout, quantization-aware training, model compression, and inference acceleration.
+- Reasoning under Efficiency Constraints: preserving and improving mathematical and multimodal reasoning capabilities in low-bit LLMs.
+
+## Research Highlights
+- **Ultra-Low-Bit LLM Pretraining in NVFP4 with System-Level Optimization**: Designed end-to-end NVFP4 training pipelines with framework-level optimization, investigated per-token scaling, block-level scaling and module-sensitive precision allocation, and explored scalable low-bit training on large GPU clusters.
+- **End-to-End FP8 Training for Reasoning-Capable LLMs at Scale**: Developed FP8 training recipes covering continual pretraining, supervised fine-tuning, evaluation and deployment-oriented precision consistency, with hybrid-granularity FP8 quantization and BF16-level reasoning performance.
+- **INT4 RL with Real W4A16 Rollout for Train-Inference Alignment**: Built an INT4 QAT-RL pipeline that combines training-side fake quantization with serving-side real W4A16 rollout, improving rollout throughput on Qwen3-30B-A3B while keeping reasoning performance stable.
 
 
 ## Publications and Manuscripts
@@ -23,34 +37,38 @@ redirect_from:
 
 - **[InfiR2: A Comprehensive FP8 Training Recipe for Reasoning-Enhanced Language Models](https://arxiv.org/abs/2509.22536)** \
   **_2025 Under Review_** \
-  👥: _Wenjun Wang, Shuo Cai, Congkai Xie, Mingfa Feng, Yiming Zhang, **Zhen Li**, Kejing Yang, Ming Li, Jiannong Cao, Yuan Xie, Hongxia Yang✉_
+  Authors: _Wenjun Wang, Shuo Cai, Congkai Xie, Mingfa Feng, Yiming Zhang, **Zhen Li**, Kejing Yang, Ming Li, Jiannong Cao, Yuan Xie, Hongxia Yang✉_
 
 - **[Democratizing AI Through Model Fusion: A Comprehensive Review and Future Directions](https://www.cell.com/nexus/fulltext/S2950-1601(25)00049-X)** \
   **_2025 Nexus_** \
-  👥: _Qi Zhou, Yiming Zhang, Yanggan Gu, Yuanyi Wang, Zhijie Sang, Zhaoyi Yan, **Zhen Li**, Shengyu Zhang, Fei Wu, Hongxia Yang✉_
+  Authors: _Qi Zhou, Yiming Zhang, Yanggan Gu, Yuanyi Wang, Zhijie Sang, Zhaoyi Yan, **Zhen Li**, Shengyu Zhang, Fei Wu, Hongxia Yang✉_
 
 
 - **[InfiJanice: Joint Analysis and In-situ Correction Engine for Quantization-Induced Math Degradation in Large Language Models](https://arxiv.org/abs/2505.11574)** \
   **_2025 Under Review_** \
-  👥: _**Zhen Li***, Yupeng Su*, Songmiao Wang, Runming Yang, Congkai Xie, Aofan Liu, Ming Li, Jiannong Cao, Yuan Xie, Ngai Wong✉, Hongxia Yang✉_
+  Authors: _**Zhen Li***, Yupeng Su*, Songmiao Wang, Runming Yang, Congkai Xie, Aofan Liu, Ming Li, Jiannong Cao, Yuan Xie, Ngai Wong✉, Hongxia Yang✉_
 
 
 - **[Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models](https://arxiv.org/abs/2505.23091)** \
   **_2025 Under Review_** \
-  👥: _Zeyu Liu*, Yuhang Liu*, Guanghao Zhu, Congkai Xie, **Zhen Li**, Jianbo Yuan, Xinyao Wang, Qing Li, Shing-Chi Cheung, Shengyu Zhang, Fei Wu, Hongxia Yang✉_
+  Authors: _Zeyu Liu*, Yuhang Liu*, Guanghao Zhu, Congkai Xie, **Zhen Li**, Jianbo Yuan, Xinyao Wang, Qing Li, Shing-Chi Cheung, Shengyu Zhang, Fei Wu, Hongxia Yang✉_
 
 - **[MD3R: Minimizing Data Distribution Discrepancies to Tackle Inconsistencies in Multilingual Query-Code Retrieval](https://openreview.net/forum?id=xdVLvWZcUe)** \
   **_2025 ACL@KnowFM_** \
-  👥: _Aofan Liu, Yuguo Yin, Hongjian Xing, **Zhen Li**, Yiyan Qi✉_
+  Authors: _Aofan Liu, Yuguo Yin, Hongjian Xing, **Zhen Li**, Yiyan Qi✉_
 
 - **[Quantization meets reasoning: Exploring llm low-bit quantization degradation for mathematical reasoning](https://arxiv.org/abs/2501.03035)** \
   **_2025 arXiv_** \
-  👥: _**Zhen Li***, Yupeng Su*, Runming Yang, Congkai Xie, Zheng Wang, Zhongwei Xie, Ngai Wong✉, Hongxia Yang✉_
+  Authors: _**Zhen Li***, Yupeng Su*, Runming Yang, Congkai Xie, Zheng Wang, Zhongwei Xie, Ngai Wong✉, Hongxia Yang✉_
 
 - **[InfiR: Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning.](https://arxiv.org/abs/2502.11573)** \
   **_2025 arXiv_** \
-  👥: _Congkai Xie, Shuo Cai, Wenjun Wang, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, **Zhen Li**, Guanghao Zhu, Zeyu Liu, Yang Yu, Yuhang Liu, Su Lu, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang✉_
-   
+  Authors: _Congkai Xie, Shuo Cai, Wenjun Wang, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, **Zhen Li**, Guanghao Zhu, Zeyu Liu, Yang Yu, Yuhang Liu, Su Lu, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang✉_
+
+## Patents
+- **InfiDeck: An AI Operating System with Integrated Hardware Extensions** · China Patent
+- **Reinforcement Learning Model Training Method and Device** · U.S., China and Singapore Patent
+
 ## Grants
 - **Numerical Stability and End-to-End Performance Optimization of Low-Bit Mixed-Precision Training for Large Language Models** · Tsinghua-PolyU Joint Research Initiative Fund
 - **Scaling Low-Bit Training for Efficient Large Model Deployment** · General Research Funding
@@ -58,10 +76,10 @@ redirect_from:
 
 
 ## Industrial Experiences
-- **Member of Technical Staff (Intern)** @[**InfiX.ai**](https://infix-ai.com/) · 2024.11 - Present
+- **Research Intern / Member of Technical Staff (Intern)** @[**InfiX.ai**](https://infix-ai.com/) · 2024.11 - Present
 - **Algorithm Engineer** @[**Tencent** Interactive Entertainment Group (IEG)](https://www.tencent.com/en-us/about.html) · 2024.07 - 2024.11
 - **AI Infra Engineer (Intern)** @[**Ant Group** NextEVO Research Center](https://www.antgroup.com/en) · 2023.06 - 2024.04
-- **Research Intern** @[**AMD** Xilinx DeePhi](https://www.amd.com/en.html) · 2022.10 - 2024.05
+- **Research Intern** @[**AMD** Xilinx DeePhi](https://www.amd.com/en.html) · 2022.10 - 2023.05
 - **Research Intern** @[**iFlytek** Technology Research Institute](https://www.iflytek.com/en/) · 2022.03 - 2022.06
 
 ## Project Experiences
@@ -84,19 +102,24 @@ redirect_from:
 
 
 ## Awards
+- **PolyU Research Postgraduate Scholarship**, 2025
 - **Outstanding Postgraduate Student of USTC**, 2024
-- **1st‑Class Academic Scholarship of USTC**, 2023
-- **1st‑Class Academic Scholarship of USTC**, 2022
-- **1st‑Class Academic Scholarship of USTC**, 2021
+- **1st-Class Academic Scholarship of USTC**, 2021-2024
 - **Merit Student Award of the Province**, 2021
 - **Annual Outstanding Student of the Province**, Province Level · 2019
 - **Merit Student Award**, 2019
 - **Outstanding Student Leader Award**, 2021
 
 ## Teaching
+- **Teaching Assistant**, COMP6713 - Advanced Large Language Model and Beyond, PolyU · 2026 Spring
 - **Teaching Assistant**, COMP2021 – Object-oriented Programming, PolyU · 2025 Fall
 - **Teaching Assistant**, ML4432 – Machine Learning, PolyU · 2025 Spring
 - **Teaching Assistant**, CONT010177 – Modern Control Theory, USTC · 2022 Fall
+
+## Skills
+- **Programming**: Python, C++, CUDA, Golang
+- **Systems and Frameworks**: Megatron-LM, DeepSpeed, vLLM, Ray, Triton
+- **Expertise**: Ultra-low-bit LLM training, FP8/FP4/NVFP4, quantization-aware training, distributed training systems, inference optimization, profiling and memory optimization
 
 ## Extracurricular Activities
 - **President of the University Student Union**
